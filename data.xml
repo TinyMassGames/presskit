@@ -5,103 +5,101 @@
   <founding-date>January 01, 2023</founding-date>
   <website>https://tinymassgames.com</website>
   <press-contact>
-    tinymassgames@gmail.com
+    TinyMassGames@gmail.com
   </press-contact>
 
-  <!-- Google analytics ID: -->
-  <analytics></analytics>
-
-  <phone></phone>
   <address>
     <line>
-      <!-- Street -->
     </line>
     <line>
-      <!-- City --> 
-    </line>
-    <line>
-      <!-- Country -->
+      Massachusetts!
     </line>
   </address>
 
   <socials>
     <social>
-      <name></name>
+      <name>Twitter: @TinyMassGames</name>
       <link>
         <!-- URL starting with http or https -->
+        https://twitter.com/tinymassgames
       </link>
     </social>
   </socials>
 
-  <description></description>
-
-  <!-- Choose between a single block: -->
-  <history></history>
+  <description>
+  Tiny Mass Games is a collective of small teams and solo developers based in Massachusetts who release a batch of hand crafted, artisanal, farm-to-table games each quarter.
+  </description>
 
   <!-- Or multiple blocks: -->
-  <!--
+  
   <histories>
     <history>
       <header></header>
-      <text></text>
+      <text>Following the release of Stacklands by the Sokpop Collective, the Massachusetts game development community began discussing the viability of a group that made games with short timelines and small scopes.</text>
+    </history>
+    <history>
+      <text>Tiny Mass Games is open to anyone in Massachusetts* (or nearby, or otherwise connected to the Best State), who wants to make a game* in 2-3ish months*. Participants are welcome to work as solo developers or on teams. They are welcome to use whichever tools they prefer and can release however &amp; whenever they want.</text>
+    </history>
+    <history>
+      <text>* negotiable.</text>
     </history>
   </histories>
-  -->
+ 
 
+<!-- 
   <trailers>
     <trailer>
       <name></name>
 
-      <!-- Pick one: -->
       <youtube>
-        <!-- Video ID only, not the full URL -->
       </youtube>
-      <vimeo>
-        <!-- Video ID only, not the full URL -->
-      </vimeo>
-    </trailer>
-  </trailers>
 
-  <awards>
+    </trailer>
+  </trailers> -->
+
+  <!-- <awards>
     <award>
       <description></description>
       <info></info>
     </award>
-  </awards>
+  </awards> -->
 
-  <quotes>
+  <!-- <quotes>
     <quote>
       <description></description>
       <name></name>
       <website></website>
       <link></link>
     </quote>
-  </quotes>
+  </quotes> -->
 
-  <additionals>
+  <!-- <additionals>
     <additional>
       <title></title>
       <description></description>
       <link></link>
     </additional>
-  </additionals>
+  </additionals> -->
 
   <credits>
     <credit>
-      <person></person>
+      <person>Matthew Brelsford, Giant Light Studios</person>
+      <role>Giant Light Studios Website</role>
+      <website>https://www.giantlightstudios.com</website>
+    </credit>
+    <credit>
+      <person>Josh Galecki</person>
       <role></role>
-
-      <!-- Optional: -->
       <website></website>
     </credit>
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
+      <name>Tiny Mass Games</name>
 
       <!-- Pick one: -->
-      <mail></mail>
+      <mail>tinymassgames@gmail.com</mail>
       <link></link>
     </contact>
   </contacts>
