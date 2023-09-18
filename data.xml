@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <company>
-  <title></title>
-  <based-in></based-in>
-  <founding-date></founding-date>
-  <website></website>
+  <title>Tiny Mass Games</title>
+  <based-in>Massachussetts</based-in>
+  <founding-date>January 01, 2023</founding-date>
+  <website>https://tinymassgames.com</website>
   <press-contact>
-    <!-- Mail address -->
+    tinymassgames@gmail.com
   </press-contact>
 
   <!-- Google analytics ID: -->
